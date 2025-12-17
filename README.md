@@ -3,19 +3,37 @@
 ## C_Data
 
 ```C
-#仅用于学习目的
+// 仅用于学习目的
+```
+
+## Java
+
+```java
+// 仅用于学习目的
 ```
 
 ## PHP
 
 ```php
-#仅用于学习目的
+// 仅用于学习目的
 ```
 
 ## Python
 
 ```python
-#仅用于学习目的
+# 仅用于学习目的
+```
+
+## HTML
+
+```html
+<!-- 仅用于学习目的 -->
+```
+
+## Bash
+
+```bash
+# 仅用于学习目的
 ```
 
 ## Contributors
@@ -26,14 +44,10 @@
   <img src="https://contrib.rocks/image?repo=huidoudour/Learn-of-all" />
 </a>
 
-## 历史星标
+[![Star History](https://img.shields.io/badge/Star-History-blue.svg)](StarHistory.md)
 
-<a href="https://www.star-history.com/#huidoudour/Learn-of-all&Date">
+#### 联系我
+> 若有任何侵权的地方，请联系我。
+<br>
 
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=huidoudour/Learn-of-all&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=huidoudour/Learn-of-all&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=huidoudour/Learn-of-all&type=Date" />
- </picture>
-
-</a>
+> 存在AI产物片段，请合理处理。
